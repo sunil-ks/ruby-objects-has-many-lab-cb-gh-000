@@ -9,6 +9,4 @@ class Post
     else
       nil
     end
-
-  end
 end
